@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40cba846-adfb-4308-9f56-a3e15339c6e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../src/rankr_promoted_products/rankr_promoted_products_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/rankr_promoted_products/rankr_promoted_products_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1keZe7chZDeZJxR2AyVkbwARfvc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,9 +28,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager" selected="Python.example">
     <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -133,6 +134,10 @@
       <screen x="0" y="23" width="2560" height="1304" />
     </state>
     <state width="1259" height="447" key="GridCell.Tab.1.right/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940063" />
+    <state x="1421" y="314" key="SettingsEditor" timestamp="1606080506343">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state x="1421" y="314" key="SettingsEditor/0.23.2560.1304@0.23.2560.1304" timestamp="1606080506343" />
     <state x="1520" y="415" key="Vcs.Push.Dialog.v2" timestamp="1606080365866">
       <screen x="0" y="23" width="2560" height="1304" />
     </state>

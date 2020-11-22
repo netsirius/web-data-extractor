@@ -9,7 +9,7 @@ setup(
     author='Hector Santos',
     # Package dir and where parameter must be set to properly install the package
     package_dir={'': 'src'},
-    packages=find_packages('src', include=['bbs_leisure*']),
+    packages=find_packages('src', include=['web_data_extractor*']),
     install_requires=[
         'redis==3.3.11',
         'beautifulsoup4==4.9.3',
