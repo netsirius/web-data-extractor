@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40cba846-adfb-4308-9f56-a3e15339c6e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../src/rankr_promoted_products/rankr_promoted_products_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/rankr_promoted_products/rankr_promoted_products_app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1keZe7chZDeZJxR2AyVkbwARfvc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Python.example">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-data-extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/web_data_extractor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/web_data_extractor/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="web-data-extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40cba846-adfb-4308-9f56-a3e15339c6e9" name="Default Changelist" comment="" />
+      <created>1606063109937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606063109937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1561" y="458" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606073811590">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state x="1561" y="458" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2560.1304@0.23.2560.1304" timestamp="1606073811590" />
+    <state x="1683" y="389" width="754" height="571" key="#xdebugger.evaluate" timestamp="1606079806262">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state x="1683" y="389" width="754" height="571" key="#xdebugger.evaluate/0.23.2560.1304@0.23.2560.1304" timestamp="1606079806262" />
+    <state width="1259" height="447" key="GridCell.Tab.0.bottom" timestamp="1606079940062">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.0.bottom/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940062" />
+    <state width="1259" height="447" key="GridCell.Tab.0.center" timestamp="1606079940062">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.0.center/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940062" />
+    <state width="1259" height="447" key="GridCell.Tab.0.left" timestamp="1606079940062">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.0.left/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940062" />
+    <state width="1259" height="447" key="GridCell.Tab.0.right" timestamp="1606079940062">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.0.right/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940062" />
+    <state width="1259" height="447" key="GridCell.Tab.1.bottom" timestamp="1606079940063">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.1.bottom/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940063" />
+    <state width="1259" height="447" key="GridCell.Tab.1.center" timestamp="1606079940063">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.1.center/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940063" />
+    <state width="1259" height="447" key="GridCell.Tab.1.left" timestamp="1606079940062">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.1.left/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940062" />
+    <state width="1259" height="447" key="GridCell.Tab.1.right" timestamp="1606079940063">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="1259" height="447" key="GridCell.Tab.1.right/0.23.2560.1304@0.23.2560.1304" timestamp="1606079940063" />
+    <state x="1520" y="415" key="Vcs.Push.Dialog.v2" timestamp="1606080365866">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state x="1520" y="415" key="Vcs.Push.Dialog.v2/0.23.2560.1304@0.23.2560.1304" timestamp="1606080365866" />
+    <state width="640" height="652" key="XDebugger.FullValuePopup" timestamp="1606079659685">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="640" height="652" key="XDebugger.FullValuePopup/0.23.2560.1304@0.23.2560.1304" timestamp="1606079659685" />
+    <state x="1618" y="430" width="604" height="490" key="find.popup" timestamp="1606080407227">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state x="1618" y="430" width="604" height="490" key="find.popup/0.23.2560.1304@0.23.2560.1304" timestamp="1606080407227" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1606074414154">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.2560.1304@0.23.2560.1304" timestamp="1606074414154" />
+    <state x="1763" y="473" key="refactoring.ChangeSignatureDialog" timestamp="1606075756621">
+      <screen x="0" y="23" width="2560" height="1304" />
+    </state>
+    <state x="1763" y="473" key="refactoring.ChangeSignatureDialog/0.23.2560.1304@0.23.2560.1304" timestamp="1606075756621" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/web_data_extractor/extractors/extractor.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/web_data_extractor/extractors/dict_web_extractor.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/web_data_extractor/extractors/dict_web_extractor.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/web_data_extractor/extractors/dict_web_extractor.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
