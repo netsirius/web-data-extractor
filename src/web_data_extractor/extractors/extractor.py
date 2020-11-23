@@ -2,6 +2,11 @@ import logging
 
 
 def check_rules_schema(parse_func):
+    """
+    Check the rules schema
+    :param parse_func:
+    :return:
+    """
     def check_schema(*args, **kwargs):
         result = parse_func(*args, **kwargs)
         if 'url' in result and 'rules' in result:
@@ -31,7 +36,17 @@ def check_rules_schema(parse_func):
 class Extractor:
 
     def parse_rules(self, input_rules):
+        """
+        Get rules dict with a correct schema
+        :param input_rules: rules to follow to obtain the data
+        :return:
+        """
         pass
 
     def extract_data(self, rules):
+        """
+        Extract the data from the web according to the defined rules
+        :param rules: rules to follow to obtain the data
+        :return:
+        """
         pass

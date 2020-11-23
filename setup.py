@@ -14,7 +14,8 @@ setup(
         'redis==3.3.11',
         'beautifulsoup4==4.9.3',
         'requests==2.25.0',
-        'html5lib==1.1'
+        'html5lib==1.1',
+        'pymongo==3.11.1'
     ],
     extras_require={
         "testing": [
